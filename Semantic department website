@@ -1,0 +1,437 @@
+<div>
+
+<img src="d:\video-game-design-stockcake.jpg" alt="Game Development">
+
+<p>Game Development</p>
+
+</div>
+
+</div>
+
+</article>
+
+</section>
+
+<section id="about">
+
+<h2>About Department</h2>
+
+<article class="content-box">
+
+<h4>Vision</h4>
+
+<p>To provide quality education in computer applications and help students develop 
+strong technical and professional skills.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Mission</h4>
+
+<p>To impart quality technical education through balanced theoretical and practical 
+learning, preparing students to solve complex industry problems.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Objectives</h4>
+
+<ul>
+
+<li>Provide strong algorithmic, software design, and programming 
+foundations.</li>
+
+<li>Promote industry interaction through workshops, internships, and live 
+projects.</li>
+
+<li>Encourage multidisciplinary research in artificial intelligence, cloud, and data 
+science.</li>
+
+</ul>
+
+</article>
+
+</section>
+
+<section id="faculty">
+
+<h2>Faculty</h2>
+
+<article class="content-box">
+
+<h4>VEERA RAGHAVAIAH KATHULA</h4>
+
+<p><strong>Designation:</strong> Professor</p>
+
+<p><strong>Subject Handled:</strong> Front-End Frameworks and 
+Technologies</p>
+
+</article>
+
+
+
+<article class="content-box">
+
+<h4>DHARSHINEE NAGARAJAN</h4>
+
+<p><strong>Designation:</strong> Professor</p>
+
+<p><strong>Subject Handled:</strong> Communication and Life Skills - I</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>MR. ABHISHEK A</h4>
+
+<p><strong>Designation:</strong> Professor</p>
+
+<p><strong>Subject Handled:</strong> Advanced UI and UX Design for 
+Developers</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>OLETI DURGA BRAVISH</h4>
+
+<p><strong>Designation:</strong> Professor</p>
+
+<p><strong>Subject Handled:</strong> Advanced Data Science Techniques</p>
+
+</article>
+
+</section>
+
+<section id="courses">
+
+<h2>Courses & Syllabus</h2>
+
+<article class="content-box">
+
+<h4>MCA Semester-wise Subjects</h4>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Semester</th>
+
+<th>Subject Code</th>
+
+<th>Subject Name</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Semester 1</td>
+
+<td>MCA101</td>
+
+<td>Data Structures and Algorithms</td>
+
+</tr>
+
+<tr>
+
+<td>Semester 2</td>
+
+<td>MCA102</td>
+
+<td>Operating Systems & Linux Lab</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>Semester 3</td>
+
+<td>MCA201</td>
+
+<td>Database Management Systems</td>
+
+</tr>
+
+<tr>
+
+<td>Semester 4</td>
+
+<td>MCA202</td>
+
+<td>Object-Oriented Programming using Java</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</article>
+
+</section> 
+
+<section id="timetable">
+
+<h2>Class & Lab Timetable</h2>
+
+<article class="content-box">
+
+<h4>Weekly Class Timetable</h4>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Day</th>
+
+<th>1:00 PM - 2:00 PM</th>
+
+<th>2:00 PM - 3:00 PM</th>
+
+<th>3:00 PM - 4:00 PM</th>
+
+<th>4:00 PM - 5:00 PM</th>
+
+<th>5:00 PM - 6:00 PM</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Monday</td>
+
+<td>AUI</td>
+
+<td>DST</td>
+
+<td>ADS</td>
+
+<td>BAD</td>
+
+<td>EFT</td>
+
+</tr>
+
+<tr>
+
+<td>Tuesday</td>
+
+<td>DST</td>
+
+<td>CLS</td>
+
+
+<td>ADS</td>
+
+<td>ADS</td>
+
+<td>PST</td>
+
+</tr>
+
+<tr>
+
+<td>Wednesday</td>
+
+<td>EFT</td>
+
+<td>PST</td>
+
+<td>DST</td>
+
+<td>AUI</td>
+
+<td>AUI</td>
+
+</tr>
+
+<tr>
+
+<td>Thursday</td>
+
+<td>AUI</td>
+
+<td>BAD</td>
+
+<td>EFT</td>
+
+<td>CLS</td>
+
+<td>N/A</td>
+
+</tr>
+
+<tr>
+
+<td>Friday</td>
+
+<td>PST</td>
+
+<td>ADS</td>
+
+<td>AUI</td>
+
+<td>EFT</td>
+
+<td>EFT</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</article>
+
+<article class="content-box">
+
+<h4>Lab Schedule</h4>
+
+<ul>
+
+<li><strong>FFT Lab:</strong> Monday (2:00 PM - 4:00 PM) - Lab </li>
+
+<li><strong>PST Lab:</strong> Tuesday (2:00 PM - 4:00 PM) - Lab 2</li>
+
+<li><strong>AUI Lab:</strong> Thursday (10:00 AM - 12:00 PM) - Lab 1</li>
+
+</ul>
+
+</article>
+
+</section>
+
+<section id="achievements">
+
+<h2>Achievements</h2>
+
+<article class="content-box">
+
+<h4>Student Achievements</h4>
+
+<p>Students participate in hackathons, coding competitions and various technical 
+events conducted at university and inter-college levels.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Faculty Achievements</h4>
+
+<p>Dr. Ramesh Kumar received the 'Best Researcher Award' for publishing high-
+impact papers in IEEE computer science journals.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Department Milestones</h4>
+
+<p> The department conducts technical workshops, seminars and student 
+development activities throughout the academic year.</p>
+
+</article>
+
+</section>
+
+<section id="events">
+
+<h2>Events</h2>
+
+<article class="content-box">
+
+<h4>Workshops</h4>
+
+<p><strong>Hands-on Docker & Kubernetes:</strong> A 2-day technical workshop 
+conducted by industry experts on modern container tools.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Seminars</h4>
+
+<p><strong>Future of Generative AI:</strong> Guest seminar delivered by senior 
+software architects covering Large Language Models.</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Hackathons</h4>
+
+<p><strong>CodeCraft 2026:</strong> An internal 24-hour hackathon designed to 
+test real-time coding and problem-solving abilities.</p>
+
+</article>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact Us</h2>
+
+<article class="content-box">
+
+<h4>Department Address</h4>
+
+
+<p>Department of Computer Science & Applications, Alliance University, 
+Chikkahagade Cross, Chandapura - Anekal Main Road, Bengaluru – 562106.</p>
+
+<p style="margin-top: 8px;"><strong>Email:</strong> 
+mca.dept@alliance.edu.in</p>
+
+<p><strong>Phone:</strong> +91 80 4619 9000 / +91 98765 43210</p>
+
+</article>
+
+<article class="content-box">
+
+<h4>Contact Form</h4>
+
+<form action="#" method="get">
+
+<input type="text" placeholder="Enter Your Name" required>
+
+<input type="email" placeholder="Enter Your Email" required>
+
+<input type="text" placeholder="Enter Subject">
+
+<textarea rows="4" placeholder="Write your message here..." 
+required></textarea>
+
+<button type="submit">Submit Message</button>
+
+</form>
+
+</article>
+
+</section>
+
+<footer>
+
+<p>&copy; 2026 Alliance University</p>
+
+</footer>
+
+</body>
+
+</html>
