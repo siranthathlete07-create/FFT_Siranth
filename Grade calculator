@@ -1,0 +1,124 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+ <title>Grade Calculator</title> 
+
+ <style> body { font-
+family: Arial; text-align: 
+center; background-color: 
+#f40101; 
+
+padding: 50px; 
+
+} 
+
+.box { 
+
+background-color: rgb(228, 250, 26); 
+
+width: 350px; margin: auto; 
+padding: 25px; border-radius: 10px; 
+box-shadow: 0 0 10px rgb(219, 29, 29); 
+
+} 
+
+input { 
+padding: 10px; 
+width: 200px; 
+
+margin: 10px; 
+
+} 
+
+button { padding: 10px 
+20px; background-color: 
+#d51212; color: rgb(208, 
+253, 46); border: none; 
+border-radius: 5px; cursor: 
+pointer; 
+
+} 
+
+#result 
+margin-top: 20px; 
+font-size: 20px; 
+
+font-weight: bold; 
+
+ </style> 
+
+</head> 
+
+<body> 
+
+ <div class="box"> 
+
+<h2>Grade Calculator</h2> 
+
+<input type="number" id="mark" placeholder="Enter your mark"> 
+
+<br> 
+
+<button onclick="calculateGrade()">Calculate Grade</button> 
+
+
+
+<p id="result"></p> 
+
+ </div> 
+
+ <script> 
+
+function calculate Grade() { 
+
+let mark = Number(document.getElementById("mark").value); 
+let grade; 
+
+if (mark >= 90) { 
+
+grade = "A+"; 
+
+} 
+
+else if (mark >= 80) { 
+
+grade = "A"; 
+
+} 
+
+else if (mark >= 70) { 
+
+grade = "B"; 
+
+} 
+
+else if (mark >= 60) { 
+
+grade = "C"; 
+
+} 
+
+else if (mark >= 50) { 
+
+grade = "D"; 
+
+} else 
+{ grade = 
+"F"; 
+
+} 
+
+document.getElementById("result").innerHTML = 
+
+"Your Grade is: " + grade; 
+
+} 
+
+ </script> 
+
+</body> 
+
+</html> 
