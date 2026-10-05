@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>My Resume</title>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+background-color: #f2f2f2;
+
+margin: 0;
+
+padding: 0;
+
+}
+
+.resume {
+
+width: 80%;
+
+margin: 30px auto;
+
+background-color: white;
+
+padding: 30px;
+
+box-shadow: 0 0 10px rgb(221, 238, 31);
+
+}
+
+.header {
+
+text-align center;
+
+background-color: #e10404;
+
+color: white;
+
+padding: 25px;
+
+}
+
+.header h1 {
+
+margin: 0;
+
+}
+
+
+
+.header p {
+
+margin: 8px;
+
+}
+
+h2 {
+
+color: #c0ed38;
+
+border-bottom: 2px solid #e40c0c;
+
+padding-bottom: 5px;
+
+}
+
+p, li {
+
+font-size: 16px;
+
+line-height: 1.6;
+
+}
+
+ul {
+
+padding-left: 25px;
+
+}
+
+.skills span {
+
+display: inline block;
+
+background-color: #d5fe31;
+
+color: rgb(225, 5, 5);
+
+padding: 8px 12px;
+
+margin: 5px;
+
+border-radius: 5px;
+
+}
+
+.contact {
+
+background-color: #d5f020;
+
+padding: 15px;
+
+}
+
+.footer {
+
+text-align center;
+
+margin-top: 20px;
+
+color: rgb(225, 7, 7);
+
+
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="resume">
+
+<!-- Header -->
+
+<div class="header">
+
+<h1>SIRANTH K</h1>
+
+<p>MCA Generative AI Student</p>
+
+<p>Email: siranthathlete07@gmail.com | Phone: 8122942747</p>
+
+</div>
+
+<!-- Career Objective -->
+
+<h2>Career Objective</h2>
+
+<p>
+
+To build a successful career in the field of Generative AI and
+
+Information Technology by improving my technical skills and
+
+gaining practical experience.
+
+</p>
+
+<!-- Education -->
+
+<h2>Education</h2>
+
+<ul>
+
+<li>
+
+<b>MCA - Generative AI</b><br>
+
+Alliance University, Bangalore
+
+</li>
+
+<li>
+
+<b>bachelor’s degree</b><br>
+
+Bharathiar University, Coimbatore
+
+</li>
+
+</ul>
+
+
+
+<!-- Skills -->
+
+<h2>Technical Skills</h2>
+
+<div class="skills">
+
+<span>Python</span>
+
+<span>HTML</span>
+
+<span>CSS</span>
+
+<span>JavaScript</span>
+
+<span>SQL</span>
+
+<span>Data Science</span>
+
+</div>
+
+<!-- Projects -->
+
+<h2>Projects</h2>
+
+<h3>1. Online cybercrime reporting system</h3>
+
+<p>
+
+A web-based system that allows users to report cybercrime incidents
+
+and track their status.
+
+</p>
+
+<h3>2. Multhispeciality Hospital Management System</h3>
+
+<p>
+
+A generative AI project that analyzes hospital performance,and provides insights for 
+improving patient care and operational efficiency.
+
+</p>
+
+<!-- Strengths -->
+
+<h2>Strengths</h2>
+
+<ul>
+
+<li>Quick Learner</li>
+
+<li>Problem Solving</li>
+
+<li>Teamwork</li>
+
+<li>Good Communication</li>
+
+</ul>
+
+<!-- Hobbies -->
+
+
+<h2>Hobbies</h2>
+
+<ul>
+
+<li>Learning New Technologies</li>
+
+<li>Playing Cricket and Handball</li>
+
+<li>Watching Movies</li>
+
+</ul>
+
+<!-- Contact -->
+
+<h2>Contact Information</h2>
+
+<div class="contact">
+
+<p><b>Email:</b> siranthathlete07@gmail.com</p>
+
+<p><b>Phone:</b> 8122942747</p>
+
+<p><b>Location:</b> Bangalore, Karnataka</p>
+
+</div>
+
+<div class="footer">
+
+<p>© 2026 SIRANTH K | Resume Website</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
