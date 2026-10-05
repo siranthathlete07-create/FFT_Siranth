@@ -1,0 +1,286 @@
+<html>
+
+<head>
+
+<title>College Event</title>
+
+<style>
+
+* {
+
+box-sizing: border-box;
+
+}
+
+body {
+
+font-family: Arial;
+
+margin: 0;
+
+}
+
+nav {
+
+background: #f5f0eb;
+
+padding: 15px;
+
+text-align: center;
+
+}
+
+nav a {
+
+color: rgb(77, 164, 235);
+
+text-decoration: none;
+
+margin: 15px;
+
+}
+
+.banner {
+
+background: rgb(223, 139, 28);
+
+text-align: center;
+
+padding: 50px;
+
+}
+
+section {
+
+padding: 25px;
+
+}
+
+table {
+
+width: 100%;
+
+border-collapse: collapse;
+
+}
+
+th, td {
+
+border: 1px solid black;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+.speakers {
+
+display: flex;
+
+gap: 20px;
+
+}
+
+.card {
+
+background: rgb(236, 19, 185);
+
+padding: 20px;
+
+
+flex: 1;
+
+text-align: center;
+
+}
+
+input, button {
+
+padding: 10px;
+
+margin: 5px;
+
+}
+
+button {
+
+background: rgb(20, 52, 232);
+
+color: white;
+
+border: none;
+
+}
+
+@media (max-width: 600px) {
+
+nav a {
+
+display: block;
+
+margin: 8px;
+
+}
+
+.speakers {
+
+display: block;
+
+}
+
+.card {
+
+margin: 10px 0;
+
+}
+
+table {
+
+font-size: 12px;
+
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+
+<a href="#">Home</a>
+
+<a href="#schedule">Schedule</a>
+
+<a href="#speakers">Speakers</a>
+
+<a href="#register">Register</a>
+
+<a href="#contact">Contact</a>
+
+</nav>
+
+<div class="banner">
+
+<h1>College Tech Fest 2026</h1>
+
+<p>Learn • Create • Innovate</p>
+
+</div>
+
+<section>
+
+<h2>Event Details</h2>
+
+<p>Date: 10 October 2026</p>
+
+<p>Venue: Alfresco</p>
+
+<p>Time: 11:00 AM - 4:00 PM</p>
+
+</section>
+
+<section id="schedule">
+
+<h2>Schedule</h2>
+
+
+<table>
+
+<tr>
+
+<th>Time</th>
+
+<th>Event</th>
+
+</tr>
+
+<tr>
+
+<td>11:00 AM</td>
+
+<td>Inauguration</td>
+
+</tr>
+
+<tr>
+
+<td>1:00 PM</td>
+
+<td>Technical Talk</td>
+
+</tr>
+
+<tr>
+
+<td>3:00 PM</td>
+
+<td>Project Presentation</td>
+
+</tr>
+
+</table>
+
+</section>
+
+<section id="speakers">
+
+<h2>Speakers</h2>
+
+<div class="speakers">
+
+<div class="card">
+
+<h3>Dr. Elena Freeman
+
+</h3>
+
+<p>AI Expert</p>
+
+</div>
+
+<div class="card">
+
+<h3>Dr. Geoffrey Hinton</h3>
+
+<p>Data Scientist</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="register">
+
+<h2>Registration</h2>
+
+<form>
+
+<input type="text" placeholder="Name">
+
+<input type="email" placeholder="Email">
+
+<button>Register</button>
+
+</form>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email:msdhoni@college.com</p>
+
+<p>Phone: 8122942747</p>
+
+</section>
+
+</body>
+
+</html>
+
